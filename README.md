@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction
+# Explainable AI (XAI) on Titanic Dataset
